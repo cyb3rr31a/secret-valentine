@@ -1,0 +1,11 @@
+.bg-image {
+    background-image: url(/secret-valentines/images/valentines.jpeg);
+}
+
+.redButton {
+    background-color: red;
+}
+
+.red {
+    color: red;
+}
